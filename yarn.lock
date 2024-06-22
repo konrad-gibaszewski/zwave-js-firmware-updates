@@ -1167,7 +1167,7 @@ __metadata:
     eslint: ^8.23.1
     eslint-config-prettier: ^8.5.0
     eslint-plugin-prettier: ^4.2.1
-    itty-durable: ^1.2.0
+    itty-durable: ^1.6.0
     itty-router: ^2.6.1
     itty-router-extras: ^0.4.2
     json-logic-js: ^2.0.2
@@ -3442,13 +3442,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"itty-durable@npm:^1.2.0":
-  version: 1.2.0
-  resolution: "itty-durable@npm:1.2.0"
+"itty-durable@npm:^1.6.0":
+  version: 1.6.0
+  resolution: "itty-durable@npm:1.6.0"
   dependencies:
     itty-router: ^2.6.1
     itty-router-extras: ^0.4.2
-  checksum: 11e945a19b56c5e5ab896a7eaf042f4d2f8e760af528cac7d21468aac7e3c47a604365518720ffcda719dc2016b6babb5864f4ed21124594d892b11a7cab1e64
+  checksum: 4d7fd4fcc17ee4a7de571c079a3be6914281a5a0c309b1b70f97372e24c0780a6fbe1287739d7b415b8e114c65c8de05ac7b2a3342fc427ee5aa39b573109a44
   languageName: node
   linkType: hard
 
@@ -5001,7 +5001,7 @@ __metadata:
 
 "typescript@patch:typescript@~4.7.4#~builtin<compat/typescript>":
   version: 4.7.4
-  resolution: "typescript@patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=7ad353"
+  resolution: "typescript@patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
