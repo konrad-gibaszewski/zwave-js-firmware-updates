@@ -21,7 +21,7 @@
   "dependencies": {
     "itty-durable": "^1.2.0",
     "itty-router": "^2.6.1",
-    "itty-router-extras": "^0.4.2",
+    "itty-router-extras": "^0.4.6",
     "json-logic-js": "^2.0.2",
     "json5": "^2.2.3",
     "path-browserify": "^1.0.1",

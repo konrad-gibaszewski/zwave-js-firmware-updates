@@ -1169,7 +1169,7 @@ __metadata:
     eslint-plugin-prettier: ^4.2.1
     itty-durable: ^1.2.0
     itty-router: ^2.6.1
-    itty-router-extras: ^0.4.2
+    itty-router-extras: ^0.4.6
     json-logic-js: ^2.0.2
     json5: ^2.2.3
     miniflare: ~2.11.0
@@ -3459,6 +3459,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"itty-router-extras@npm:^0.4.6":
+  version: 0.4.6
+  resolution: "itty-router-extras@npm:0.4.6"
+  checksum: 230201d6d8a5b38a870b36280ea681b96c978fa2cbb14001d0291a5f3fce9ee86a0e8a4897d9e91709ff3a8f00f188395f3ed6b5dbe31f7840528fb3acc578c4
+  languageName: node
+  linkType: hard
+
 "itty-router@npm:^2.3.10, itty-router@npm:^2.6.1":
   version: 2.6.1
   resolution: "itty-router@npm:2.6.1"
@@ -5001,7 +5008,7 @@ __metadata:
 
 "typescript@patch:typescript@~4.7.4#~builtin<compat/typescript>":
   version: 4.7.4
-  resolution: "typescript@patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=7ad353"
+  resolution: "typescript@patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
